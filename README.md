@@ -1,12 +1,12 @@
-<h1 align="center">Hey there 👋 I'm João Pedro!</h1>
+<h1 align="center">Hi, I'm João Pedro</h1>
 
 <p align="center">
-  🚀 Curious mind. Passionate about low-level programming and software craftsmanship.
+  Passionate about low-level programming and software craftsmanship.
 </p>
 
 ---
 
-### 🧠 Languages I Know
+### Languages I Know
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -17,26 +17,28 @@
 
 ---
 
-### 🛠️ Tools I Use
+### Tools I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-101010?style=for-the-badge&logo=Anthropic&logoColor=white" />
 </p>
 
 ---
 
-### 📌 About Me
+### About Me
 
-- 🧩 42 student working on clean C and C++ projects.
-- 🧘‍♂️ Always improving my logic, style, and mindset.
-- 🧠 Interested in AI, systems programming, and elegant problem-solving.
+- 42 student focused on clean, maintainable C and C++ code.
+- Continuously improving my logic, style, and discipline.
+- Interested in AI, systems programming, and minimalist solutions to complex problems.
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorodrigues3099&layout=compact&langs_count=6&theme=tokyonight" />
 </p>
+
