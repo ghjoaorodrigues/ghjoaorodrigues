@@ -39,6 +39,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorodrigues3099&layout=compact&langs_count=6&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghjoaorodrigues&layout=compact&langs_count=6&theme=tokyonight" />
 </p>
 
