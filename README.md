@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 Languages I Know  
+### Languages I Know  
 <p align="center"><em>Click a badge to explore my journey in that language</em></p>
 
 <p align="center">
