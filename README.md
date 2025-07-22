@@ -6,13 +6,22 @@
 
 ---
 
-### Languages I Know
+### 🧠 Languages I Know  
+<p align="center"><em>Click a badge to explore my journey in that language</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <a href="https://github.com/ghjoaorodrigues/Bash">
+    <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+  </a>
+  <a href="https://github.com/ghjoaorodrigues/C">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="https://github.com/ghjoaorodrigues/C++">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </a>
+  <a href="https://github.com/ghjoaorodrigues/Python">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -27,6 +36,16 @@
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-101010?style=for-the-badge&logo=Anthropic&logoColor=white" />
 </p>
+
+---
+
+### My 42 Projects
+
+I'm currently studying at the [42 Network](https://42.fr/en/homepage/),  
+where I'm building everything from scratch in C and C++ — no teachers, no lectures, just pure coding.
+
+All my 42 projects, organized by stage and topic, are now hosted in a dedicated GitHub organization:  
+- **[github.com/42-joaorodrigues](https://github.com/42-joaorodrigues)**
 
 ---
 
