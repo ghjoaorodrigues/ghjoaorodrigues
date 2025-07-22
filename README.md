@@ -54,9 +54,3 @@ where I'm building everything from scratch in C and C++ — no teachers, no lect
 
 All my 42 projects, organized by stage and topic, are now hosted in a dedicated GitHub organization:  
 **[github.com/42-joaorodrigues](https://github.com/42-joaorodrigues)**
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghjoaorodrigues&layout=compact&langs_count=6&theme=tokyonight" />
-</p>
