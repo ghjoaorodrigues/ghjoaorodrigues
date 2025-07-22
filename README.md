@@ -6,6 +6,14 @@
 
 ---
 
+### About Me
+
+- 42 student focused on clean, maintainable C and C++ code.
+- Continuously improving my logic, style, and discipline.
+- Interested in AI, systems programming, and minimalist solutions to complex problems.
+
+---
+
 ### Languages I Know  
 <p align="center"><em>Click a badge to explore my journey in that language</em></p>
 
@@ -45,15 +53,7 @@ I'm currently studying at the [42 Network](https://42.fr/en/homepage/),
 where I'm building everything from scratch in C and C++ — no teachers, no lectures, just pure coding.
 
 All my 42 projects, organized by stage and topic, are now hosted in a dedicated GitHub organization:  
-- **[github.com/42-joaorodrigues](https://github.com/42-joaorodrigues)**
-
----
-
-### About Me
-
-- 42 student focused on clean, maintainable C and C++ code.
-- Continuously improving my logic, style, and discipline.
-- Interested in AI, systems programming, and minimalist solutions to complex problems.
+**[github.com/42-joaorodrigues](https://github.com/42-joaorodrigues)**
 
 ---
 
