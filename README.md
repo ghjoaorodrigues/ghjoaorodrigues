@@ -9,7 +9,7 @@
 
 - Junior full-stack engineer at **Zaori Capital**, a registered fintech startup in Luxembourg.
 - Technical co-lead on **Valore**, a wealth portfolio management platform being piloted with real client data.
-- 42 Luxembourg — Common Core completed May 2026, currently in the Advanced Part.
+- 42 Luxembourg - Common Core completed May 2026, currently in the Advanced Part.
 - Background in systems programming (C/C++), now working across the full stack in TypeScript, Java, and Python.
 
 ---
